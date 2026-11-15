@@ -21,6 +21,6 @@ First up, materials:
   <li>Potentiometer</li>
   <li>IRF520 Transistor</li>
   <li>Resistors</li>
-
-  For testing stages, I used a full sized breadboard, and an arduino uno.
 </ol>
+
+For testing stages, I used a full sized breadboard, and an arduino uno. I plan to use a perfboard for the final thing.
