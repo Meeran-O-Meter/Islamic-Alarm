@@ -36,4 +36,5 @@ Meeran
 <h4>Images</h4>
 <img alt = "image of breadboard" src="./images/level-1/level-1.png">
 <img alt = "image of breadboard" src="./images/level-1/level-1(2).jpg">
-<img alt ="schematics" src="![image](https://cdn.hackclub.com/01a1dfd2-f48a-7acb-b6b7-a78cb2a4559a/paste-1794756505917.png)">
+<a href="https://user-cdn.hackclub-assets.com/01a1dfd2-f48a-7acb-b6b7-a78cb2a4559a/paste-1794756505917.png">Schematics</a>
+
